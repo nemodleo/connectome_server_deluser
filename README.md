@@ -7,9 +7,7 @@ The personal shared directory (data/connectome/{userid}) of the data folder in s
 ### Run
 ~~~Bash
 conmaster@gateway:~/server_management$./server_deluser.sh {userid}
-~~~
 
 #example
-~~~Bash
 conmaster@gateway:~/server_management$./server_deluser.sh ct11111
 ~~~
