@@ -1,6 +1,5 @@
 #!/bin/bash
 userid=$1
-pw=$2
 
 # deluser in gateway
 sudo -S deluser --remove-home $userid
